@@ -112,3 +112,5 @@
 - [react-native-navigation](https://github.com/wix/react-native-navigation) -A complete native navigation solution for React Native - nav bars, tabs, drawer, modals
 
 - [gitbook-reader-rn](https://github.com/le0zh/gitbook-reader-rn) -使用ReactNative开发的GitBook阅读器，可以查看在线的书籍信息，在线阅读和下载，目前仅适配了Android端，iOS待适配
+
+- [react-native-text-avatar](https://github.com/hicay/react-native-text-avatar) -类似 Gmail 的首字母头像组件，根据姓名生成稳定的颜色，支持多种形状和深色模式
